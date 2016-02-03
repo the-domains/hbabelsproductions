@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T01:41:58.519Z'
-dateModified: '2016-02-03T01:39:44.640Z'
+datePublished: '2016-02-03T01:51:53.374Z'
+dateModified: '2016-02-03T01:51:49.050Z'
 title: H. B. Abels Productions
 author: []
 sourcePath: _posts/2016-02-03-h-b-abels-productions.md
