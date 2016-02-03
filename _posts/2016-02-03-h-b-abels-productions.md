@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T01:34:56.096Z'
-dateModified: '2016-02-03T01:34:43.953Z'
+datePublished: '2016-02-03T01:41:58.519Z'
+dateModified: '2016-02-03T01:39:44.640Z'
 title: H. B. Abels Productions
 author: []
+sourcePath: _posts/2016-02-03-h-b-abels-productions.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-h-b-abels-productions.md
-published: true
 url: h-b-abels-productions/index.html
 _type: Article
 
